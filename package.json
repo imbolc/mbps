@@ -1,0 +1,25 @@
+{
+  "name": "mbps",
+  "version": "1.0.0",
+  "description": "Readable network bitrate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imbolc/mbps.git"
+  },
+  "keywords": [
+    "network",
+    "bitrate",
+    "bandswidth",
+    "throughput"
+  ],
+  "author": "Imbolc <imbolc@imbolc.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imbolc/mbps/issues"
+  },
+  "homepage": "https://github.com/imbolc/mbps#readme"
+}
